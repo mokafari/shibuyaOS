@@ -1,0 +1,15 @@
+# Ignorera rpi-image-gen katalogen (klonas av byggskriptet på VM)
+rpi-image-gen/
+
+# Ignorera byggkatalogen som skapas av VM-skriptet i hemkatalogen
+# (Denna skapas PÅ VM:en, så den är sällan relevant för det lokala repot,
+# men bra att ha med om man skulle synka tillbaka på något sätt)
+shibuyaos-vm-build-config/
+
+# Ignorera lokala byggartefakter från rpi-image-gen (om man skulle köra det lokalt)
+work/
+deploy/
+*.img
+
+# macOS specifika filer
+.DS_Store 
