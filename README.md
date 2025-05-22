@@ -1,4 +1,14 @@
-# Shibuya OS - Audio-Visual Cyberdeck Project
+# Shibuya OS - Audio-Visual Cyberdeck Mainframe
+
+           ██████╗  ██╗  ██╗ ██╗ ██████╗  ██╗   ██╗ ██╗   ██╗  █████╗   ██████╗   ██████╗   
+          ██╔════╝  ██║  ██║ ██║ ██╔══██╗ ██║   ██║ ╚██╗ ██╔╝ ██╔══██╗ ██╔═══██╗ ██╔════╝   
+          ╚█████╗   ███████║ ██║ ██████╔╝ ██║   ██║  ╚████╔╝  ███████║ ██║   ██║ ╚█████╗    
+           ╚═══██╗  ██╔══██║ ██║ ██╔══██╗ ██╗   ██╔   ╚██╔╝   ██╔══██║ ██║   ██║  ╚═══██╗   
+          ██████╔╝  ██║  ██║ ██║ ██████╔╝ ╚██████╔╝    ██║    ██╔══██║ ╚██████╔╝ ██████╔╝   
+          ╚═════╝   ╚═╝  ╚═╝ ╚═╝ ╚═════╝   ╚═════╝     ╚═╝    ╚═╝  ╚═╝  ╚═════╝  ╚═════╝    
+                                                                                             
+                                       S H I B U Y A  O S                             
+
 
 Shibuya OS är ett anpassat Linux-operativsystem baserat på Raspberry Pi OS, designat för att driva en portabel audio-visuell (A/V) cyberdeck. Målet är att skapa en optimerad och robust plattform för realtidsljudbearbetning, dynamiska visuella effekter (projectM), synkroniserad LED-belysning (LedFx) och videostreaming (OBS/NDI).
 
